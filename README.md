@@ -45,5 +45,10 @@ Inhibitory Gradient
 Merrikhi, P. (2026). The Paradox of Inhibitory Control in Higher-Order Multilingualism.
 ‌
 ---
-
+‌
+## Contact Information
+If you have any questions regarding this research or would like to collaborate, feel free to reach out:
+‌
+- **Email:** Deniz.qizi@gmail.com
+- Pegah.Merrrikhiii@gmail.com
 ‌
