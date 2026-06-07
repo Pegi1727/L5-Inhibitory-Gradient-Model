@@ -37,3 +37,16 @@ If you use this model or data in your research, please cite:
 ---
 *Contact: Deniz.qizi@gmail.com
         Pegah.Merrrikhiii@gmail.com
+markdown
+# L5 Project - Data Analysis
+‌
+این پروژه جهت تحلیل داده‌های بخش L5 و مدیریت مستندات مربوطه طراحی شده است.
+‌
+## ساختار پوشه‌ها:
+- **data**: حاوی فایل‌های خام ورودی.
+- **scripts**: کدهای پایتون جهت پردازش و تحلیل.
+- **plots**: خروجی‌های تصویری و نمودارها.
+- **manuscript**: فایل‌های مربوط به پیش‌نویس مقاله.
+‌
+## وضعیت فعلی:
+ساختار پوشه‌ها نهایی شده و آماده بارگذاری داده‌ها می‌باشد.
