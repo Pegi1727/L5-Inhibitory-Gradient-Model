@@ -40,13 +40,13 @@ If you use this model or data in your research, please cite:
 markdown
 # L5 Project - Data Analysis
 ‌
-این پروژه جهت تحلیل داده‌های بخش L5 و مدیریت مستندات مربوطه طراحی شده است.
+This repository is dedicated to the data analysis of the L5 segment and the management of associated research documentation.
 ‌
-## ساختار پوشه‌ها:
-- **data**: حاوی فایل‌های خام ورودی.
-- **scripts**: کدهای پایتون جهت پردازش و تحلیل.
-- **plots**: خروجی‌های تصویری و نمودارها.
-- **manuscript**: فایل‌های مربوط به پیش‌نویس مقاله.
+## Project Structure:
+- **data/**: Contains raw input data files.
+- **scripts/**: Python scripts for data processing and visualization.
+- **plots/**: Generated charts and visual results.
+- **manuscript/**: Drafts and final versions of the research paper.
 ‌
-## وضعیت فعلی:
-ساختار پوشه‌ها نهایی شده و آماده بارگذاری داده‌ها می‌باشد.
+## Current Status:
+The project architecture is finalized, and it is ready for data integration and analysis.
