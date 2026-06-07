@@ -1,1 +1,6 @@
 
+csv
+Sample_ID,L5_Measurement,Status
+S001,4.2,Normal
+S002,5.1,Elevated
+S003,3.9,Normal
