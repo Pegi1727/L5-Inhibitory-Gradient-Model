@@ -1,3 +1,10 @@
+
+## Research Visualizations
+‌
+### 1. Inhibitory Gradient Across Multilingual Acquisition
+![Inhibitory Gradient Model](plots/IMG_20260607_162632.jpg)
+‌
+*Figure 1: This statistical plot demonstrates the 'Inhibitory Paradox'. While L3 (English) shows high entrenchment and stability, making it easier to suppress, L4 (Russian) represents a zone of developmental instability, leading to higher interference in L5 production.*
 # L5-Inhibitory-Gradient-Model
 Research data and analysis for the 'Multilingual Inhibitory Gradient Model'. Investigating cross-linguistic interference and the paradox of inhibitory control in L5 Spanish acquisition."
 
