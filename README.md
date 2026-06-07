@@ -36,8 +36,11 @@ pip install -r requirements.txt
 ‌
 ## Running the Analysis
 
-To generate statistical plots: `python code/generate_all_figures.py`
-To run the Chi-square test: `python code/statistical_analysis.py`
+To generate statistical plots:
+bash
+`python code/generate_all_figures.py`
+To run the Chi-square test:
+`python code/statistical_analysis.py`
 ‌
 ---
 ‌
