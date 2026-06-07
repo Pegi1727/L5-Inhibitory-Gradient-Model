@@ -50,3 +50,33 @@ This repository is dedicated to the data analysis of the L5 segment and the mana
 ‌
 ## Current Status:
 The project architecture is finalized, and it is ready for data integration and analysis.
+# The Paradox of Inhibitory Control in Higher‑Order Multilingualism
+Why a Dominant L3 May Be Easier to Suppress than a Developing L4 during L5 Acquisition
+‌
+Author: Pegah Merrikhi
+‌
+---
+‌
+## 🔬 Overview
+This repository contains the open materials, data, and code associated with our study on inhibitory control in multilingual speakers. The project explores the non-linear relationship between language entrenchment and the effort required for suppression during target language (L5) production.
+‌
+## 📂 Contents
+- `/data`: Intrusion counts, types (Lexical, Phonological, Morphosyntactic), and pause duration statistics.
+- `/code`: Python scripts for:
+- Generating publication-quality figures.
+- Performing statistical analysis.
+- Simulating inhibitory gradients.
+- `/materials`: Task descriptions and stimulus items.
+- `/supplementary`: Detailed methodological notes and coding reliability.
+‌
+## 🚀 Reproducibility
+To reproduce the figures and analysis:
+
+Clone the repository.
+Install requirements: `pip install -r requirements.txt`
+Run scripts in the `/code` directory.
+‌
+## 📜 License
+Materials are provided for academic research purposes. Please cite the author when using these materials.
+```
+‌
