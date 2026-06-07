@@ -32,7 +32,8 @@ Based on a case study of a multilingual speaker (L1 Azerbaijani, L2 Persian, L3 
 ‌
 ## 📄 Citation
 If you use this model or data in your research, please cite:
-> *Pegah, [Last Name]. (2024). The Paradox of Inhibitory Control in L5 Acquisition: An Inhibitory-Gradient Perspective.*
+> *Pegah, [Last Name]. (2026). The Paradox of Inhibitory Control in L5 Acquisition: An Inhibitory-Gradient Perspective.*
 ‌
 ---
-*Contact: [Your Email/Bale ID]*
+*Contact: Deniz.qizi@gmail.com
+        Pegah.Merrrikhiii@gmail.com
